@@ -1,0 +1,548 @@
+{
+    "skinny_sword": {
+        "id": 2,
+        "agility": 1,
+        "defense": 1,
+        "strength": -1
+    },
+    "thin_sword": {
+        "id": 3,
+        "agility": 1
+    },
+    "thick_sword": {
+        "id": 4,
+        "level": 15,
+        "defense": 5,
+        "magic": -1,
+        "strength": 2
+    },
+    "pumpkin_peeler": {
+        "id": 5,
+        "level": 10,
+        "defense": 2,
+        "magic": -2,
+        "strength": 3
+    },
+    "gladiator_sword": {
+        "id": 6,
+        "level": 15,
+        "critical": 50,
+        "defense": 3,
+        "magic": -1,
+        "strength": 1
+    },
+    "butcher_knife": {
+        "id": 7,
+        "level": 15,
+        "agility": 2,
+        "magic": -2,
+        "strength": 5
+    },
+    "half_sword": {
+        "id": 8,
+        "level": 5,
+        "defense": 2,
+        "magic": -1
+    },
+    "carrot": {
+        "id": 9,
+        "level": 5,
+        "defense": 1,
+        "strength": 1
+    },
+    "thief_sword": {
+        "id": 10,
+        "level": 5,
+        "agility": 3,
+        "strength": -1
+    },
+    "gold_sword": {
+        "id": 11,
+        "level": 15,
+        "defense": 1,
+        "magic": 4
+    },
+    "dual_prong_sword": {
+        "id": 12,
+        "level": 20,
+        "critical": 100,
+        "defense": 3,
+        "strength": 3
+    },
+    "zigzag": {
+        "id": 13,
+        "level": 10,
+        "agility": -1,
+        "defense": 1,
+        "magic": 3
+    },
+    "playdo_pasta_maker": {
+        "id": 14,
+        "level": 15,
+        "agility": -1,
+        "defense": 3,
+        "magic": 3
+    },
+    "falchion": {
+        "id": 15,
+        "level": 10,
+        "defense": 3,
+        "strength": 1
+    },
+    "pointy_sword": {
+        "id": 16,
+        "level": 15,
+        "agility": 2,
+        "defense": 2,
+        "magic": 1
+    },
+    "chewed_up_sword": {
+        "id": 17,
+        "level": 15,
+        "agility": 2,
+        "defense": 4,
+        "magic": -1
+    },
+    "fencers_foil": {
+        "id": 18,
+        "level": 10,
+        "agility": 1,
+        "magic": 1,
+        "strength": 1
+    },
+    "barbarian_ax": {
+        "id": 19,
+        "critical": 100,
+        "magic": -1
+    },
+    "pitchfork": {
+        "id": 20,
+        "agility": -1,
+        "strength": 1
+    },
+    "curved_sword": {
+        "id": 21,
+        "level": 15,
+        "defense": -1,
+        "magic": 3,
+        "strength": 3
+    },
+    "key_sword": {
+        "id": 22,
+        "level": 15,
+        "agility": 3,
+        "magic": 3,
+        "strength": -1
+    },
+    "apple_peeler": {
+        "id": 23,
+        "level": 10,
+        "defense": 3,
+        "magic": 1,
+        "strength": -1
+    },
+    "rubber_handle_sword": {
+        "id": 24,
+        "level": 10,
+        "agility": 3,
+        "magic": -2,
+        "strength": 2
+    },
+    "mace": {
+        "id": 25,
+        "critical": 100
+    },
+    "club": {
+        "id": 26,
+        "level": 20,
+        "agility": -3,
+        "defense": 5,
+        "strength": 5
+    },
+    "ugly_mace": {
+        "id": 27,
+        "level": 20,
+        "critical": 100,
+        "defense": 6,
+        "magic": -2
+    },
+    "refined_mace": {
+        "id": 28,
+        "level": 10,
+        "agility": 1,
+        "defense": 1,
+        "strength": 1
+    },
+    "fish": {
+        "id": 29,
+        "level": 5,
+        "magic_type": 3,
+        "magic_chance": 50,
+        "magic": -1
+    },
+    "wrapped_sword": {
+        "id": 30,
+        "defense": 1,
+        "magic": 1,
+        "strength": -1
+    },
+    "skeletor_mace": {
+        "id": 31,
+        "level": 20,
+        "agility": 5,
+        "defense": 3,
+        "strength": -2
+    },
+    "clunky_mace": {
+        "id": 32,
+        "level": 10,
+        "agility": -2,
+        "strength": 5
+    },
+    "snakey_mace": {
+        "id": 33,
+        "level": 20,
+        "magic_type": 1,
+        "magic_chance": 50,
+        "agility": 3,
+        "defense": -2,
+        "magic": 5
+    },
+    "rat_beating_bat": {
+        "id": 34,
+        "level": 10,
+        "defense": 1,
+        "strength": 2
+    },
+    "black_morning_star": {
+        "id": 35,
+        "level": 20,
+        "critical": 25,
+        "defense": 1,
+        "magic": 1,
+        "strength": -3
+    },
+    "kings_mace": {
+        "id": 36,
+        "level": 20,
+        "defense": 3,
+        "magic": 2,
+        "strength": 3
+    },
+    "meat_tenderizer": {
+        "id": 37,
+        "agility": -1,
+        "strength": 2
+    },
+    "leaf": {
+        "id": 38,
+        "level": 5,
+        "magic": 3,
+        "strength": -1
+    },
+    "sheathed_sword": {
+        "id": 39,
+        "magic": 1
+    },
+    "practice_foil": {
+        "id": 40,
+        "level": 10,
+        "agility": 3,
+        "defense": -1,
+        "magic": 1
+    },
+    "twig": {
+        "id": 41,
+        "defense": -1,
+        "magic": 2
+    },
+    "leafy_twig": {
+        "id": 42,
+        "agility": 1,
+        "defense": -1,
+        "magic": -1
+    },
+    "light_saber": {
+        "id": 43,
+        "level": 10,
+        "magic_type": 2,
+        "magic_chance": 50,
+        "agility": 2
+    },
+    "staff": {
+        "id": 44,
+        "level": 10,
+        "defense": -2,
+        "magic": 5
+    },
+    "wooden_spoon": {
+        "id": 45,
+        "agility": 2,
+        "magic": -1
+    },
+    "bone_leg": {
+        "id": 46,
+        "level": 15,
+        "magic_type": 1,
+        "magic_chance": 50,
+        "agility": 5,
+        "strength": -2
+    },
+    "alien_gun": {
+        "id": 47,
+        "magic_type": 4,
+        "magic_chance": 100
+    },
+    "fishing_spear": {
+        "id": 48,
+        "level": 15,
+        "agility": -3,
+        "magic": 2,
+        "strength": 5
+    },
+    "lance": {
+        "id": 49,
+        "level": 15,
+        "agility": -2,
+        "defense": 2,
+        "strength": 4
+    },
+    "sai": {
+        "id": 50,
+        "level": 20,
+        "critical": 50,
+        "agility": 6,
+        "defense": -2
+    },
+    "unicorn_horn": {
+        "id": 51,
+        "level": 15,
+        "defense": 1,
+        "magic": 6,
+        "strength": -3
+    },
+    "ribeye": {
+        "id": 52,
+        "level": 20,
+        "agility": 4,
+        "magic": -2,
+        "strength": 4
+    },
+    "kielbasa": {
+        "id": 53,
+        "level": 10,
+        "critical": 100,
+        "magic": 1,
+        "strength": 1
+    },
+    "lobster": {
+        "id": 54,
+        "level": 5,
+        "critical": 100,
+        "agility": 1,
+        "strength": -1
+    },
+    "umbrella": {
+        "id": 55,
+        "level": 5,
+        "defense": 3,
+        "strength": -1
+    },
+    "broad_ax": {
+        "id": 56,
+        "strength": 1
+    },
+    "evil_sword": {
+        "id": 57,
+        "level": 20,
+        "defense": 7,
+        "magic": 2
+    },
+    "ice_sword": {
+        "id": 58,
+        "level": 20,
+        "magic_type": 3,
+        "magic_chance": 33,
+        "magic": 2
+    },
+    "candlestick": {
+        "id": 59,
+        "level": 15,
+        "magic_type": 4,
+        "magic_chance": 33,
+        "magic": 2,
+        "strength": -1
+    },
+    "panic_mallet": {
+        "id": 60,
+        "level": 15,
+        "critical": 33,
+        "strength": 1
+    },
+    "fishing_rod": {
+        "id": 61,
+        "magic_type": 2,
+        "magic_chance": 100,
+        "strength": -1
+    },
+    "wrench": {
+        "id": 62,
+        "level": 5,
+        "critical": 50,
+        "magic": -1,
+        "strength": 1
+    },
+    "ng_lollipop": {
+        "id": 63,
+        "agility": 5
+    },
+    "gold_skull_mace": {
+        "id": 64,
+        "level": 30,
+        "critical": 25,
+        "strength": 3
+    },
+    "ng_golden-sword": {
+        "id": 65,
+        "level": 30,
+        "agility": -3,
+        "magic": 5,
+        "strength": 5
+    },
+    "chainsaw": {
+        "id": 66,
+        "level": 30,
+        "critical": 20,
+        "defense": 5
+    },
+    "broad_spear": {
+        "id": 67,
+        "level": 15,
+        "critical": 50,
+        "agility": 5,
+        "strength": -2
+    },
+    "glowstick": {
+        "id": 68,
+        "level": 20,
+        "magic_type": 2,
+        "magic_chance": 100,
+        "defense": 5,
+        "magic": 5,
+        "strength": -4
+    },
+    "chicken_stick": {
+        "id": 69,
+        "level": 5,
+        "agility": 1,
+        "defense": -1,
+        "magic": 2
+    },
+    "demon_sword": {
+        "id": 70,
+        "level": 20,
+        "magic_type": 4,
+        "magic_chance": 50,
+        "agility": 2,
+        "magic": 2,
+        "strength": 2
+    },
+    "broccoli_sword": {
+        "id": 71,
+        "defense": 3
+    },
+    "man_catcher": {
+        "id": 72,
+        "level": 35,
+        "critical": 50,
+        "defense": 2,
+        "strength": 5
+    },
+    "wooden_mace": {
+        "id": 73,
+        "level": 20,
+        "agility": 2,
+        "defense": 2,
+        "strength": 2
+    },
+    "ninja_claw": {
+        "id": 74,
+        "level": 35,
+        "magic_type": 1,
+        "magic_chance": 33,
+        "agility": 5,
+        "magic": 3
+    },
+    "buffalo_mace": {
+        "id": 75,
+        "level": 30,
+        "agility": -2,
+        "defense": 3,
+        "strength": 5
+    },
+    "electric_eel": {
+        "id": 76,
+        "level": 30,
+        "magic_type": 2,
+        "magic_chance": 33,
+        "defense": -1,
+        "magic": 4
+    },
+    "scissors": {
+        "id": 77,
+        "level": 5,
+        "agility": -1,
+        "defense": 3 
+    },
+    "dinner_fork": {
+        "id": 78,
+        "level": 15,
+        "magic_type": 1,
+        "magic_chance": 100,
+        "defense": -2,
+        "magic": 3
+    },
+    "cattle_prod": {
+        "id": 79,
+        "level": 30,
+        "magic_type": 2,
+        "magic_chance": 25,
+        "defense": 4
+    },
+    "lightning_bolt": {
+        "id": 80,
+        "level": 10,
+        "magic_type": 2,
+        "magic_chance": 100,
+        "magic": 3
+    },
+    "2x4": {
+        "id": 81,
+        "level": 10,
+        "defense": 2,
+        "magic": -1,
+        "strength": 2
+    },
+    "wooden_sword": {
+        "id": 82,
+        "level": 5,
+        "strength": 1,
+        "agility": 1
+    },
+    "cardboard_tube": {
+        "id": 83,
+        "level": 15,
+        "agility": 6,
+        "strength": -2
+    },
+    "emerald_sword": {
+        "id": 84,
+        "agility": -1,
+        "magic": 3
+    },
+    "hammer": {
+        "id": 85,
+        "agility": -1,
+        "strength": 3
+    }
+}
