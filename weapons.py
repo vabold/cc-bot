@@ -28,6 +28,9 @@ class WeaponCycleView(discord.ui.View):
 
 @dataclass
 class Weapon:
+    name: str = ""
+    unlock: str = ""
+    url: str = ""
     id: int = 0
     level: int = 1
     magic_type: int = 0
@@ -61,7 +64,8 @@ async def handle_weapon(interaction: discord.Interaction, name: str = None, id: 
     else:
         return await interaction.response.send_message("Could not find weapon.", ephemeral=True)
 
-    embed = discord.Embed(title="Weapon Information")
+    embed = discord.Embed(title=weapon.name)
+    embed.add_field(name='Unlock', value=weapon.unlock, inline=False)
     embed.add_field(name='ID', value=f'{hex(weapon.id)} ({weapon.id})')
     embed.add_field(name='Level', value=f'{weapon.level}')
 
@@ -72,9 +76,8 @@ async def handle_weapon(interaction: discord.Interaction, name: str = None, id: 
         embed.add_field(name='Magic Chance',
                         value=f'{int(100/weapon.magic_chance)}%')
     if (weapon.critical != 0):
-        embed.add_field(name='', value='', inline=False)
         embed.add_field(name='Critical Chance',
-                        value=f'{int(100/weapon.critical)}%')
+                        value=f'{int(100/weapon.critical)}%', inline=False)
 
     embed.add_field(name='', value='', inline=False)
     embed.add_field(name='Agility', value=f'{weapon.agility}')
@@ -82,6 +85,8 @@ async def handle_weapon(interaction: discord.Interaction, name: str = None, id: 
     embed.add_field(name='', value='', inline=False)
     embed.add_field(name='Magic', value=f'{weapon.magic}')
     embed.add_field(name='Strength', value=f'{weapon.strength}')
+
+    embed.set_thumbnail(url=weapon.url)
 
     view = WeaponCycleView()
     await view.set_weapon(weapon)
