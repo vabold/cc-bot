@@ -1,15 +1,24 @@
 {
     "skinny_sword": {
+        "name": "Skinny Sword",
+        "unlock": "> Bought in Castle Keep for 32 gold on normal mode.\n> Acquired by unlocking Gray Knight/Open-Faced Gray Knight.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/3/3a/1_Skinny_Sword.png",
         "id": 2,
         "agility": 1,
         "defense": 1,
         "strength": -1
     },
     "thin_sword": {
+        "name": "Thin Sword",
+        "unlock": "> Starter weapon.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/2/2c/2_Thin_Sword.png",
         "id": 3,
         "agility": 1
     },
     "thick_sword": {
+        "name": "Thick Sword",
+        "unlock": "> Bought in Swamp Village Store for 310 gold.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/a/aa/3_Thick_Sword.png",
         "id": 4,
         "level": 15,
         "defense": 5,
@@ -17,6 +26,9 @@
         "strength": 2
     },
     "pumpkin_peeler": {
+        "name": "Pumpkin Peeler",
+        "unlock": "> Found in a dig spot in Desert Chase, right before the chicken statue.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/d/d2/4_Pumpkin_Peeler.png",
         "id": 5,
         "level": 10,
         "defense": 2,
@@ -24,6 +36,9 @@
         "strength": 3
     },
     "gladiator_sword": {
+        "name": "Gladiator Sword",
+        "unlock": "> Found in the first shed in Full Moon.\n> Dropped by Stovefaces.\n> Acquired by unlocking Stoveface.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/5/54/5_Gladiator_Sword.png",
         "id": 6,
         "level": 15,
         "critical": 50,
@@ -32,6 +47,9 @@
         "strength": 1
     },
     "butcher_knife": {
+        "name": "Butcher Knife",
+        "unlock": "> Bought in Snow Store for 400 gold.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/0/08/6_Butcher_Knife.png",
         "id": 7,
         "level": 15,
         "agility": 2,
@@ -39,30 +57,45 @@
         "strength": 5
     },
     "half_sword": {
+        "name": "Half Sword",
+        "unlock": "> Found behind the bush in Industrial Castle.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/9/9b/7_Half_Sword.png",
         "id": 8,
         "level": 5,
         "defense": 2,
         "magic": -1
     },
     "carrot": {
+        "name": "Carrot",
+        "unlock": "> Found in a dig spot in Home Castle, right before the first princess cutscene.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/0/0c/8_Carrot.png",
         "id": 9,
         "level": 5,
         "defense": 1,
         "strength": 1
     },
     "thief_sword": {
+        "name": "Thief Sword",
+        "unlock": "> Found by Cardinal in Forest Entrance.\n> Dropped by Thieves.\n> Acquired by unlocking Thief.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/9/95/9_Thief_Sword.png",
         "id": 10,
         "level": 5,
         "agility": 3,
         "strength": -1
     },
     "gold_sword": {
+        "name": "Gold Sword",
+        "unlock": "> Found in a dig spot in Marsh, behind the first houses.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/a/ab/10_Gold_Sword.png",
         "id": 11,
         "level": 15,
         "defense": 1,
         "magic": 4
     },
     "dual_prong_sword": {
+        "name": "Dual Prong Sword",
+        "unlock": "> Dropped by Brutes.\n> Acquired by unlocking Brute.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/9/99/11_Dual_Prong_Sword.png",
         "id": 12,
         "level": 20,
         "critical": 100,
@@ -70,6 +103,9 @@
         "strength": 3
     },
     "zigzag": {
+        "name": "Zigzag",
+        "unlock": "> Found in a dig spot in Industrial Castle, before the second wave of enemies.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/a/a8/12_Zigzag.png",
         "id": 13,
         "level": 10,
         "agility": -1,
@@ -77,6 +113,9 @@
         "magic": 3
     },
     "playdo_pasta_maker": {
+        "name": "Playdo Pasta Maker",
+        "unlock": "> Dropped by Medusa in Medusa's Lair.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/0/0f/13_Playdo_Pasta_Maker.png",
         "id": 14,
         "level": 15,
         "agility": -1,
@@ -84,12 +123,18 @@
         "magic": 3
     },
     "falchion": {
+        "name": "Falchion",
+        "unlock": "> Found in a dig spot in Desert, next to an antlion.\n> Dropped by Saracens and Royal Guards.\n> Acquired by unlocking Saracen or Royal Guard.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/5/55/14_Falchion.png",
         "id": 15,
         "level": 10,
         "defense": 3,
         "strength": 1
     },
     "pointy_sword": {
+        "name": "Pointy Sword",
+        "unlock": "> Found by Cardinal at the end of Industrial Castle.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/1/16/15_Pointy_Sword.png",
         "id": 16,
         "level": 15,
         "agility": 2,
@@ -97,6 +142,9 @@
         "magic": 1
     },
     "chewed_up_sword": {
+        "name": "Chewed Up Sword",
+        "unlock": "> Found in a dig spot in Medusa's Lair, in the last wave of enemies before the boss.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/d/de/16_Chewed_Up_Sword.png",
         "id": 17,
         "level": 15,
         "agility": 2,
@@ -104,6 +152,9 @@
         "magic": -1
     },
     "fencers_foil": {
+        "name": "Fencer's Foil",
+        "unlock": "> Dropped by Fencers.\n> Acquired by unlocking Fencer.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/5/53/17_Fencer%27s_Foil.png",
         "id": 18,
         "level": 10,
         "agility": 1,
@@ -111,16 +162,25 @@
         "strength": 1
     },
     "barbarian_ax": {
+        "name": "Barbarian Ax",
+        "unlock": "> Dropped by Barbarians.\n> Acquired by unlocking Barbarian.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/8/8d/18_Barbarian_Ax.png",
         "id": 19,
         "critical": 100,
         "magic": -1
     },
     "pitchfork": {
+        "name": "Pitchfork",
+        "unlock": "> Found in the haybale at the start of Home Castle.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/b/be/19_Pitchfork.png",
         "id": 20,
         "agility": -1,
         "strength": 1
     },
     "curved_sword": {
+        "name": "Curved Sword",
+        "unlock": "> Found in a dig spot in Sand Castle Roof, before the wave of three Saracens.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/1/13/20_Curved_Sword.png",
         "id": 21,
         "level": 15,
         "defense": -1,
@@ -128,6 +188,9 @@
         "strength": 3
     },
     "key_sword": {
+        "name": "Key Sword",
+        "unlock": "> Found by Cardinal in Full Moon, in the second shed.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/f/ff/21_Key_Sword.png",
         "id": 22,
         "level": 15,
         "agility": 3,
@@ -135,6 +198,9 @@
         "strength": -1
     },
     "apple_peeler": {
+        "name": "Apple Peeler",
+        "unlock": "> Found in a dig spot in Wedding Crash, after the tables.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/d/d9/22_Apple_Peeler.png",
         "id": 23,
         "level": 10,
         "defense": 3,
@@ -142,6 +208,9 @@
         "strength": -1
     },
     "rubber_handle_sword": {
+        "name": "Rubber Handle Sword",
+        "unlock": "> Found in a dig spot in Barracks Ending, in the line of fire of a Thief.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/8/89/23_Rubber_Handle_Sword.png",
         "id": 24,
         "level": 10,
         "agility": 3,
@@ -149,10 +218,16 @@
         "strength": 2
     },
     "mace": {
+        "name": "Mace",
+        "unlock": "> Starter weapon.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/9/94/24_Mace.png",
         "id": 25,
         "critical": 100
     },
     "club": {
+        "name": "Club",
+        "unlock": "> Dropped by Bears.\n> Acquired by unlocking Bear.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/2/2d/25_Club.png",
         "id": 26,
         "level": 20,
         "agility": -3,
@@ -160,6 +235,9 @@
         "strength": 5
     },
     "ugly_mace": {
+        "name": "Ugly Mace",
+        "unlock": "> Dropped by Industrialists.\n> Acquired by unlocking Industrialist.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/f/f5/26_Ugly_Mace.png",
         "id": 27,
         "level": 20,
         "critical": 100,
@@ -167,6 +245,9 @@
         "magic": -2
     },
     "refined_mace": {
+        "name": "Refined Mace",
+        "unlock": "> Found in a dig spot in Flowery Fields, before the second wave of enemies.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/5/56/27_Refined_Mace.png",
         "id": 28,
         "level": 10,
         "agility": 1,
@@ -174,6 +255,9 @@
         "strength": 1
     },
     "fish": {
+        "name": "Fish",
+        "unlock": "> Found in a hidden room in Tall Grass Field, using a sandwich on the boulder before the climb.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/3/36/28_Fish.png",
         "id": 29,
         "level": 5,
         "magic_type": 3,
@@ -181,12 +265,18 @@
         "magic": -1
     },
     "wrapped_sword": {
+        "name": "Wrapped Sword",
+        "unlock": "> Found behind the collapsed pillar after the first waves of Trolls in Thieves' Forest.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/b/bd/29_Wrapped_Sword.png",
         "id": 30,
         "defense": 1,
         "magic": 1,
         "strength": -1
     },
     "skeletor_mace": {
+        "name": "Skeletor Mace",
+        "unlock": "> Dropped by Skeletons.\n> Acquired by unlocking Skeleton.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/9/9c/30_Skeletor_Mace.png",
         "id": 31,
         "level": 20,
         "agility": 5,
@@ -194,12 +284,18 @@
         "strength": -2
     },
     "clunky_mace": {
+        "name": "Clunky Mace",
+        "unlock": "> Bought in Volcano Store for 240 gold.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/6/66/31_Clunky_Mace.png",
         "id": 32,
         "level": 10,
         "agility": -2,
         "strength": 5
     },
     "snakey_mace": {
+        "name": "Snakey Mace",
+        "unlock": "> Dropped by Snakeys.\n> Acquired by unlocking Snakey.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/4/41/32_Snakey_Mace.png",
         "id": 33,
         "level": 20,
         "magic_type": 1,
@@ -209,12 +305,18 @@
         "magic": 5
     },
     "rat_beating_bat": {
+        "name": "Rat Beating Bat",
+        "unlock": "> Dropped by Beekeepers.\n> Acquired by unlocking Beekeeper.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/a/ae/33_Rat_Beating_Bat.png",
         "id": 34,
         "level": 10,
         "defense": 1,
         "strength": 2
     },
     "black_morning_star": {
+        "name": "Black Morning Star",
+        "unlock": "> Dropped by Fire Demons.\n> Acquired by unlocking Fire Demon.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/0/09/34_Black_Morning_Star.png",
         "id": 35,
         "level": 20,
         "critical": 25,
@@ -223,6 +325,9 @@
         "strength": -3
     },
     "kings_mace": {
+        "name": "King's Mace",
+        "unlock": "> Acquired by unlocking King.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/c/ca/35_King%27s_Mace.png",
         "id": 36,
         "level": 20,
         "defense": 3,
@@ -230,21 +335,33 @@
         "strength": 3
     },
     "meat_tenderizer": {
+        "name": "Meat Tenderizer",
+        "unlock": "> Found in the first chest in Thieves' Forest.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/7/71/36_Meat_Tenderizer.png",
         "id": 37,
         "agility": -1,
         "strength": 2
     },
     "leaf": {
+        "name": "Leaf",
+        "unlock": "> Found in a dig spot in Forest Entrance, under the last tree.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/8/83/37_Leaf.png",
         "id": 38,
         "level": 5,
         "magic": 3,
         "strength": -1
     },
     "sheathed_sword": {
+        "name": "Sheathed Sword",
+        "unlock": "> Starter weapon.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/5/5a/38_Sheathed_Sword.png",
         "id": 39,
         "magic": 1
     },
     "practice_foil": {
+        "name": "Practice Foil",
+        "unlock": "> Bought in Church Store for 210 gold.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/6/6a/39_Practice_Foil.png",
         "id": 40,
         "level": 10,
         "agility": 3,
@@ -252,17 +369,26 @@
         "magic": 1
     },
     "twig": {
+        "name": "Twig",
+        "unlock": "> Bought in Thieves' Store for 44 gold.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/6/6e/40_Twig.png",
         "id": 41,
         "defense": -1,
         "magic": 2
     },
     "leafy_twig": {
+        "name": "Leafy Twig",
+        "unlock": "> Found in the second chest in Thieves' Forest.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/1/1a/41_Leafy_Twig.png",
         "id": 42,
         "agility": 1,
         "defense": -1,
         "magic": -1
     },
     "light_saber": {
+        "name": "Light Saber",
+        "unlock": "> Dropped by Elite Conehead.\n> Dropped by Coneheads.\n> Acquired by unlocking Conehead.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/3/31/42_Light_Saber.png",
         "id": 43,
         "level": 10,
         "magic_type": 2,
@@ -270,17 +396,26 @@
         "agility": 2
     },
     "staff": {
+        "name": "Staff",
+        "unlock": "> Bought in Church Store for 195 gold.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/f/f9/43_Staff.png",
         "id": 44,
         "level": 10,
         "defense": -2,
         "magic": 5
     },
     "wooden_spoon": {
+        "name": "Wooden Spoon",
+        "unlock": "> Acquired by unlocking Peasant.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/e/e5/44_Wooden_Spoon.png",
         "id": 45,
         "agility": 2,
         "magic": -1
     },
     "bone_leg": {
+        "name": "Bone Leg",
+        "unlock": "> Found in an invisible dig spot in Snow Store, positioned under the left support and in between two light patches of snow.\n> It is recommended to use Pazzo to find this weapon.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/d/dd/45_Bone_Leg.png",
         "id": 46,
         "level": 15,
         "magic_type": 1,
@@ -289,11 +424,17 @@
         "strength": -2
     },
     "alien_gun": {
+        "name": "Alien Gun",
+        "unlock": "> Acquired by unlocking Alien.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/7/7a/46_Alien_Gun.png",
         "id": 47,
         "magic_type": 4,
         "magic_chance": 100
     },
     "fishing_spear": {
+        "name": "Fishing Spear",
+        "unlock": "> Dropped by Iceskimos.\n> Acquired by unlocking Iceskimo.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/9/94/47_Fishing_Spear.png",
         "id": 48,
         "level": 15,
         "agility": -3,
@@ -301,6 +442,9 @@
         "strength": 5
     },
     "lance": {
+        "name": "Lance",
+        "unlock": "> Bought in Church Store for 380 gold.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/9/91/48_Lance.png",
         "id": 49,
         "level": 15,
         "agility": -2,
@@ -308,6 +452,9 @@
         "strength": 4
     },
     "sai": {
+        "name": "Sai",
+        "unlock": "> Dropped by Ninjas.\n> Acquired by unlocking Ninja.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/c/cd/49_Sai.png",
         "id": 50,
         "level": 20,
         "critical": 50,
@@ -315,6 +462,9 @@
         "defense": -2
     },
     "unicorn_horn": {
+        "name": "Unicorn Horn",
+        "unlock": "> Acquired by defeating the Painter while the unicorn painting is alive.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/2/26/50_Unicorn_Horn.png",
         "id": 51,
         "level": 15,
         "defense": 1,
@@ -322,6 +472,9 @@
         "strength": -3
     },
     "ribeye": {
+        "name": "Ribeye",
+        "unlock": "> Found in Ice Castle before the wooden door.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/d/db/51_Ribeye.png",
         "id": 52,
         "level": 20,
         "agility": 4,
@@ -329,6 +482,9 @@
         "strength": 4
     },
     "kielbasa": {
+        "name": "Kielbasa",
+        "unlock": "> Found in a dig spot in Desert Chase, below a rock.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/b/b4/52_Kielbasa.png",
         "id": 53,
         "level": 10,
         "critical": 100,
@@ -336,6 +492,9 @@
         "strength": 1
     },
     "lobster": {
+        "name": "Lobster",
+        "unlock": "> Found in a dig spot in Tall Grass Field, on the beach.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/5/5d/53_Lobster.png",
         "id": 54,
         "level": 5,
         "critical": 100,
@@ -343,22 +502,34 @@
         "strength": -1
     },
     "umbrella": {
+        "name": "Umbrella",
+        "unlock": "> Found in a dig spot in Tall Grass Field, before the Bear boss.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/3/3b/54_Umbrella.png",
         "id": 55,
         "level": 5,
         "defense": 3,
         "strength": -1
     },
     "broad_ax": {
+        "name": "Broad Ax",
+        "unlock": "> Starter weapon.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/e/ef/55_Broad_Ax.png",
         "id": 56,
         "strength": 1
     },
     "evil_sword": {
+        "name": "Evil Sword",
+        "unlock": "> Dropped by Necromancer.\n> Acquired by unlocking Necromancer.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/c/ce/56_Evil_Sword.png",
         "id": 57,
         "level": 20,
         "defense": 7,
         "magic": 2
     },
     "ice_sword": {
+        "name": "Ice Sword",
+        "unlock": "> Found in an invisible dig spot in Ice Castle, in the same room as the wooden door, found about three players' distance to the right of the torch.\n> It is recommended to use Pazzo to find this weapon.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/e/ea/57_Ice_Sword.png",
         "id": 58,
         "level": 20,
         "magic_type": 3,
@@ -366,6 +537,9 @@
         "magic": 2
     },
     "candlestick": {
+        "name": "Candlestick",
+        "unlock": "> Found in a dig spot in Marsh, under the first houses.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/d/d2/58_Candlestick.png",
         "id": 59,
         "level": 15,
         "magic_type": 4,
@@ -374,18 +548,27 @@
         "strength": -1
     },
     "panic_mallet": {
+        "name": "Panic Mallet",
+        "unlock": "> Found in a gravestone in Marsh, behind a hill.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/3/3a/59_Panic_Mallet.png",
         "id": 60,
         "level": 15,
         "critical": 33,
         "strength": 1
     },
     "fishing_rod": {
+        "name": "Fishing Rod",
+        "unlock": "> Found by Cardinal in Marsh.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/a/a2/60_Fishing_Rod.png",
         "id": 61,
         "magic_type": 2,
         "magic_chance": 100,
         "strength": -1
     },
     "wrench": {
+        "name": "Wrench",
+        "unlock": "> Found behind the catapult in Tall Grass Field.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/6/6b/61_Wrench.png",
         "id": 62,
         "level": 5,
         "critical": 50,
@@ -393,16 +576,25 @@
         "strength": 1
     },
     "ng_lollipop": {
+        "name": "NG Lollipop",
+        "unlock": "> Acquired via the Pink Knight DLC.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/7/7a/62_Lollipop.png",
         "id": 63,
         "agility": 5
     },
     "gold_skull_mace": {
+        "name": "Gold Skull Mace",
+        "unlock": "> Bought in Insane Store for 900 gold.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/9/94/63_Gold_Skull_Mace.png",
         "id": 64,
         "level": 30,
         "critical": 25,
         "strength": 3
     },
-    "ng_golden-sword": {
+    "ng_golden_sword": {
+        "name": "NG Golden Sword",
+        "unlock": "> Bought in Insane Store for 1300 gold.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/a/a2/64_NG_Gold_Sword.png",
         "id": 65,
         "level": 30,
         "agility": -3,
@@ -410,12 +602,18 @@
         "strength": 5
     },
     "chainsaw": {
+        "name": "Chainsaw",
+        "unlock": "> Bought in Insane Store for 1500 gold.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/c/c0/65_Chainsaw.png",
         "id": 66,
         "level": 30,
         "critical": 20,
         "defense": 5
     },
     "broad_spear": {
+        "name": "Broad Spear",
+        "unlock": "> Found in a petrified fishman in Medusa's Lair, after the tiny river.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/e/e0/66_Broad_Spear.png",
         "id": 67,
         "level": 15,
         "critical": 50,
@@ -423,6 +621,9 @@
         "strength": -2
     },
     "glowstick": {
+        "name": "Glowstick",
+        "unlock": "> Dropped by Cultists.\n> Acquired by unlocking Cultist.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/3/3d/67_Glowstick.png",
         "id": 68,
         "level": 20,
         "magic_type": 2,
@@ -432,6 +633,9 @@
         "strength": -4
     },
     "chicken_stick": {
+        "name": "Chicken Stick",
+        "unlock": "> Found in a dig spot in Snow World, below the houses.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/4/41/69_Chicken_Stick_%28Still%29.png",
         "id": 69,
         "level": 5,
         "agility": 1,
@@ -439,6 +643,9 @@
         "magic": 2
     },
     "demon_sword": {
+        "name": "Demon Sword",
+        "unlock": "> Dropped by Evil Wizard.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/2/26/69_Demon_Sword.png",
         "id": 70,
         "level": 20,
         "magic_type": 4,
@@ -448,10 +655,16 @@
         "strength": 2
     },
     "broccoli_sword": {
+        "name": "Broccoli Sword",
+        "unlock": "> Acquired via the Pink Knight DLC.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/e/e6/70_Broccoli.png",
         "id": 71,
         "defense": 3
     },
     "man_catcher": {
+        "name": "Man Catcher",
+        "unlock": "> Acquired via the Blacksmith DLC.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/6/64/71_Man_Catcher.png",
         "id": 72,
         "level": 35,
         "critical": 50,
@@ -459,6 +672,9 @@
         "strength": 5
     },
     "wooden_mace": {
+        "name": "Wooden Mace",
+        "unlock": "> Found in a dig spot in Wizard Castle Interior, in the Undead Cyclops boss room.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/a/ad/72_Wooden_Mace.png",
         "id": 73,
         "level": 20,
         "agility": 2,
@@ -466,6 +682,9 @@
         "strength": 2
     },
     "ninja_claw": {
+        "name": "Ninja Claw",
+        "unlock": "> Acquired by buying BattleBlock Theater.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/0/09/73_Ninja_Claw.png",
         "id": 74,
         "level": 35,
         "magic_type": 1,
@@ -474,6 +693,9 @@
         "magic": 3
     },
     "buffalo_mace": {
+        "name": "Buffalo Mace",
+        "unlock": "> Acquired via the Pink Knight DLC.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/7/72/74_Buffalo_Mace.png",
         "id": 75,
         "level": 30,
         "agility": -2,
@@ -481,6 +703,9 @@
         "strength": 5
     },
     "electric_eel": {
+        "name": "Electric Eel",
+        "unlock": "> Acquired via the Pink Knight DLC.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/3/32/75_Electric_Eel.png",
         "id": 76,
         "level": 30,
         "magic_type": 2,
@@ -489,12 +714,18 @@
         "magic": 4
     },
     "scissors": {
+        "name": "Scissors",
+        "unlock": "> Acquired via the Pink Knight DLC.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/c/c2/76_Scissors.png",
         "id": 77,
         "level": 5,
         "agility": -1,
-        "defense": 3 
+        "defense": 3
     },
     "dinner_fork": {
+        "name": "Dinner Fork",
+        "unlock": "> Acquired via the Blacksmith DLC.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/3/30/77_Dinner_Fork.png",
         "id": 78,
         "level": 15,
         "magic_type": 1,
@@ -503,6 +734,9 @@
         "magic": 3
     },
     "cattle_prod": {
+        "name": "Cattle Prod",
+        "unlock": "> Acquired via the Blacksmith DLC.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/8/8c/79_Cattle_Prod_%28Still%29.png",
         "id": 79,
         "level": 30,
         "magic_type": 2,
@@ -510,6 +744,9 @@
         "defense": 4
     },
     "lightning_bolt": {
+        "name": "Lightning Bolt",
+        "unlock": "> Acquired by buying BattleBlock Theater.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/1/10/79_Lightning_Bolt.png",
         "id": 80,
         "level": 10,
         "magic_type": 2,
@@ -517,6 +754,9 @@
         "magic": 3
     },
     "2x4": {
+        "name": "2x4",
+        "unlock": "> Acquired via the Blacksmith DLC.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/e/ec/80_2x4.png",
         "id": 81,
         "level": 10,
         "defense": 2,
@@ -524,23 +764,35 @@
         "strength": 2
     },
     "wooden_sword": {
+        "name": "Wooden Sword",
+        "unlock": "> Bought in Castle Keep for 32 gold on insane mode.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/5/56/81_Wooden_Sword.png",
         "id": 82,
         "level": 5,
         "strength": 1,
         "agility": 1
     },
     "cardboard_tube": {
+        "name": "Cardboard Tube",
+        "unlock": "> Acquired by buying BattleBlock Theater.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/9/9a/82_Cardboard_Tube.png",
         "id": 83,
         "level": 15,
         "agility": 6,
         "strength": -2
     },
     "emerald_sword": {
+        "name": "Emerald Sword",
+        "unlock": "> Acquired by unlocking Hatty Hattington.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/6/6e/83_Emerald_Sword.png",
         "id": 84,
         "agility": -1,
         "magic": 3
     },
     "hammer": {
+        "name": "Hammer",
+        "unlock": "> Acquired via the Blacksmith DLC.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/b/bf/84_Hammer.png",
         "id": 85,
         "agility": -1,
         "strength": 3
