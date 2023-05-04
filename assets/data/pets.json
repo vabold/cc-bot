@@ -1,0 +1,216 @@
+{
+    "cardinal": {
+        "name": "Cardinal",
+        "unlock": "> Acquired by defeating the beefy Brute in Industrial Castle.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/f/fe/1_Cardinal.png",
+        "effect": "> Finds five secret items, from Forest Entrance, Thieves' Forest, Industrial Castle, Marsh, and Full Moon.",
+        "id": 1,
+        "magic": 2
+    },
+    "owlet": {
+        "name": "Owlet",
+        "unlock": "> Found behind the bush in Forest Entrance, with a music note effect.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/e/e6/2_Owlet.png",
+        "effect": "> Finds fruit in various levels.",
+        "id": 2
+    },
+    "rammy": {
+        "name": "Rammy",
+        "unlock": "> Acquired by defeating the Bear boss in Tall Grass Field.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/e/ef/3_Rammy.png",
+        "effect": "> Occasionally knocks enemies into the air, dealing minimal damage and knocking them down.",
+        "id": 3
+    },
+    "frogglet": {
+        "name": "Frogglet",
+        "unlock": "> Found in a dig spot in Marsh, in the graveyard.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/4/4b/4_Frogglet.png",
+        "effect": "> Picks up items from far away.",
+        "id": 4
+    },
+    "monkeyface": {
+        "name": "Monkeyface",
+        "unlock": "> Bought in Church Store for 325 gold.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/0/0a/5_Monkeyface.png",
+        "effect": "> Boosts enemy drop rates by approximately 3x.",
+        "id": 5
+    },
+    "bipolar_bear": {
+        "name": "BiPolar Bear",
+        "unlock": "> Acquired by using the horn at the end of Snow World.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/2/27/6_BiPolar_Bear.png",
+        "effect": "> Mauls enemies with 8% or less health.\n> Mauls friendlies with 11 or less health.",
+        "id": 6
+    },
+    "bitey_bat": {
+        "name": "Bitey Bat",
+        "unlock": "> Acquired by defeating Pipistrello in Pipistrello's Cave.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/2/28/7_Bitey_Bat.png",
+        "effect": "> Occasionally holds enemies in place, dealing minimal damage.",
+        "id": 7
+    },
+    "yeti": {
+        "name": "Yeti",
+        "unlock": "> Found behind the last house in Snow World.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/a/a2/8_Yeti.png",
+        "effect": "> Grants the player immunity to freezing.\n> Reduces the damage from freezing attacks.",
+        "id": 8,
+        "strength": 2
+    },
+    "troll": {
+        "name": "Troll",
+        "unlock": "> Acquired by using three bombs on the wall in the ruins in Thieves' Forest.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/5/52/9_Troll.png",
+        "effect": "> Regenerates 1% of the player's HP every 10 seconds.",
+        "id": 9
+    },
+    "snailburt": {
+        "name": "Snailburt",
+        "unlock": "> Found by the outhouse in Marsh.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/9/91/10_Snailburt.png",
+        "id": 10,
+        "agility": -2,
+        "defense": 5
+    },
+    "giraffey": {
+        "name": "Giraffey",
+        "unlock": "> Found in a dig spot in Desert, between two slabs.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/6/69/11_Giraffey.png",
+        "effect": "> Gives a 10% XP multiplier to the player.",
+        "id": 11
+    },
+    "zebra": {
+        "name": "Zebra",
+        "unlock": "> Acquired by defeating the non-aggressive Saracen in Desert Chase.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/e/ea/12_Zebra.png",
+        "effect": "> When equipped, all grass drops fruit unless the grass is broken by a splash attack.",
+        "id": 12,
+        "agility": 2,
+        "magic": 2
+    },
+    "meowburt": {
+        "name": "Meowburt",
+        "unlock": "> Found by leaving the entrance of Cyclops' Cave.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/d/d7/13_Meowburt.png",
+        "id": 13,
+        "agility": 4
+    },
+    "pazzo": {
+        "name": "Pazzo",
+        "unlock": "> Bought in Snow Store for 445 gold.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/b/bf/14_Pazzo.png",
+        "effect": "> Reveals digspots by hovering over them.",
+        "id": 14,
+        "defense": 2
+    },
+    "burly_bear": {
+        "name": "Burly Bear",
+        "unlock": "> Acquired by using a sandwich on the rock in Tall Grass Field, then using a bomb on the wall.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/6/6b/15_Burly_Bear.png",
+        "id": 15,
+        "defense": 1,
+        "strength": 3
+    },
+    "hawkster": {
+        "name": "Hawkster",
+        "unlock": "> Acquired by using the horn after the first wave of enemies in Tall Grass Field.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/2/2f/16_Hawkster.png",
+        "effect": "> Pecks knocked down enemies for 1 HP per hit.\n> Retrieves fruit from dead enemies unless particular circumstances are met.",
+        "id": 16
+    },
+    "snoot": {
+        "name": "Snoot",
+        "unlock": "> Acquired by using three bombs on the cracked wall in Cyclops' Fortress.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/b/b0/17_Snoot.png",
+        "id": 17,
+        "strength": 4
+    },
+    "piggy": {
+        "name": "Piggy",
+        "unlock": "> Bought in Swamp Village Store for 290 gold.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/6/6c/18_Piggy.png",
+        "effect": "> When equipped, food heals for 2x health.",
+        "id": 18
+    },
+    "spiny": {
+        "name": "Spiny",
+        "unlock": "> Bought in Volcano Store for 300 gold.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/4/4f/19_Spiny.png",
+        "id": 19,
+        "defense": 4
+    },
+    "scratchpaw": {
+        "name": "Scratchpaw",
+        "unlock": "> Acquired by using two bombs on the cracked wall in Sand Castle Interior.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/c/cd/20_Scratchpaw.png",
+        "id": 20,
+        "agility": 2,
+        "strength": 2
+    },
+    "seahorse": {
+        "name": "Seahorse",
+        "unlock": "> Found next to the river in Thieves' Forest.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/e/e3/21_Seahorse.png",
+        "effect": "> Allows for normal movement in water.",
+        "id": 21,
+        "agility": 2
+    },
+    "chicken": {
+        "name": "Chicken",
+        "unlock": "> Found in a dig spot in Medusa's Lair, before the water.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/4/45/22_Chicken.png",
+        "id": 22,
+        "agility": 1,
+        "defense": 1,
+        "strength": 1
+    },
+    "install_ball": {
+        "name": "Install Ball",
+        "unlock": "> Found behind a door in Alien Ship, after the countdown starts.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/4/43/23_Install_Ball.png",
+        "effect": "> Occasionally shoots enemies with a projectile, dealing 4 damage per hit.",
+        "id": 23
+    },
+    "mr_buddy": {
+        "name": "Mr. Buddy",
+        "unlock": "> Found in a dig spot in Barracks, before the stairs.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/c/c3/24_Mr._Buddy.png",
+        "effect": "> Makes digging faster.",
+        "id": 24
+    },
+    "sherbert": {
+        "name": "Sherbert",
+        "unlock": "> Found in the upper left corner of Animal Ark.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/a/ac/25_Sherbert.png",
+        "effect": "> Increases jump height.",
+        "id": 25
+    },
+    "pelter": {
+        "name": "Pelter",
+        "unlock": "> Bought in Insane Store for 1100 gold.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/5/5a/Pelter.png",
+        "effect": "> Occasionally shoots enemies with a snowball. Damage is based on the player's magic damage.",
+        "id": 26
+    },
+    "dragonhead": {
+        "name": "Dragonhead",
+        "unlock": "> Bought in Insane Store for 1100 gold.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/c/c0/27_Dragonhead.png",
+        "effect": "> Occasionally shoots enemies with a fireball. Damage is based on the player's magic damage.",
+        "id": 27
+    },
+    "beholder": {
+        "name": "Beholder",
+        "unlock": "> Open the locked door in Animal Ark with the Key Sword.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/5/5e/28_Beholder.png",
+        "id": 28,
+        "magic": 4
+    },
+    "golden_whale": {
+        "name": "Golden Whale",
+        "unlock": "> Acquired by buying BattleBlock Theater.",
+        "url": "https://static.wikia.nocookie.net/castlecrashers/images/b/b2/29_Golden_Whale.png",
+        "effect": "> Occasionally drops a gold piece.\n> Prevents coins from being dropped.",
+        "id": 29
+    }
+}

@@ -4,6 +4,7 @@ import os
 from dotenv import load_dotenv
 
 import weapons
+import pets
 
 
 load_dotenv()
@@ -15,6 +16,7 @@ bot = commands.Bot(command_prefix='!', intents=discord.Intents.default())
 @bot.event
 async def on_ready():
     await weapons.init()
+    await pets.init()
     print(f"{bot.user} is now running.")
 
     await bot.tree.sync()
@@ -29,6 +31,11 @@ async def ping(interaction: discord.Interaction):
 @bot.tree.command(description="Get information about a weapon in Castle Crashers.")
 async def weapon(interaction: discord.Interaction, name: str = None, id: int = None):
     return await weapons.handle_weapon(interaction, name, id, True)
+
+
+@bot.tree.command(description="Get information about a pet in Castle Crashers.")
+async def pet(interaction: discord.Interaction, name: str = None, id: int = None):
+    return await pets.handle_pet(interaction, name, id, True)
 
 
 if __name__ == '__main__':
